@@ -1,0 +1,26 @@
+# Ieteicams skatīt: https://crontab.guru
+# Minūte Stunda Datums Mēneši Nedēļas_dienas Skripts
+30 7 * * 1-5 bash {ALARM_SH}
+32 7 * * 1-5 bash {ALARM_SH}
+45 7 * * 1-5 bash {CLASS_SH}
+25 8 * * 1-5 bash {CLASS_SH}
+30 8 * * 1-5 bash {CLASS_SH}
+10 9 * * 1-5 bash {CLASS_SH}
+15 9 * * 1-5 bash {CLASS_SH}
+55 9 * * 1-5 bash {CLASS_SH}
+0 10 * * 1-5 bash {CLASS_SH}
+40 10 * * 1-5 bash {CLASS_SH}
+0 11 * * 1-5 bash {CLASS_SH}
+40 11 * * 1-5 bash {CLASS_SH}
+45 11 * * 1-5 bash {CLASS_SH}
+25 12 * * 1-5 bash {CLASS_SH}
+30 12 * * 1-5 bash {CLASS_SH}
+10 13 * * 1-5 bash {CLASS_SH}
+15 13 * * 1-5 bash {CLASS_SH}
+55 13 * * 1-5 bash {CLASS_SH}
+0 14 * * 1-5 bash {CLASS_SH}
+40 14 * * 1-5 bash {CLASS_SH}
+45 14 * * 1-5 bash {CLASS_SH}
+25 15 * * 1-5 bash {CLASS_SH}
+30 15 * * 1-5 bash {CLASS_SH}
+10 16 * * 1-5 bash {CLASS_SH}
